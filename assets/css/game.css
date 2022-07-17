@@ -29,6 +29,14 @@
     width: 100rem;
 }
 
+.information-prefix {
+    color: #c70039;
+}
+
+.information-text {
+    color: #000;
+}
+
 
 
 
